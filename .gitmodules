@@ -1,0 +1,4 @@
+[submodule "nicolaugithubiosite/public"]
+	path = nicolaugithubiosite/public
+	url = https://github.com/nicolau/nicolau.github.io.git
+	branch = main
