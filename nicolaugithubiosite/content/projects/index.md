@@ -11,7 +11,7 @@ cover:
     caption:
     relative: true
 showtoc: false
-draft: true
+draft: false
 ---
 
 I also create hand-drawn infographics and illustrations to summarize the key concepts in data science, machine learning and bioinformatics.
