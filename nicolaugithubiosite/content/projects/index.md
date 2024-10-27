@@ -15,3 +15,8 @@ draft: false
 ---
 
 I also create hand-drawn infographics and illustrations to summarize the key concepts in data science, machine learning and bioinformatics.
+
+- Bulk transcriptome analysis
+- MicroRNA expression analysis
+- Single-cell sequencing analysis
+- Single-cell CITE sequencing analysis
